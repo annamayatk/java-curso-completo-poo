@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Exercicio01 {
+
+	public static void main(String[] args) {
+
+		int x, y;
+
+		Scanner sc = new Scanner(System.in);
+		x = sc.nextInt();
+		y = sc.nextInt();
+
+		System.out.println("SOMA = " + Math.addExact(x, y));
+
+		sc.close();
+
+	}
+}
