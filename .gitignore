@@ -1,5 +1,11 @@
-bin/
+# Eclipse
+**/bin/
+**/.settings/
+**/.project
+**/.classpath
+
+# Workspace do Eclipse
 .metadata/
-.settings/
-.project
-.classpath
+
+# Arquivos compilados
+**/*.class
