@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;ProgramJava25.java&apos; to &apos;primeiro_projeto/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;primeiro_projeto&apos;&#x0D;&#x0A;- Destination element: &apos;primeiro_projeto/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;primeiro_projeto.ProgramJava25.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;" element1="/src&lt;primeiro_projeto{ProgramJava25.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1781805597495" units="1" version="1.0"/>
-</session>
