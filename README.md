@@ -4,9 +4,9 @@ Exercícios e projetos do curso **Java COMPLETO – Programação Orientada a Ob
 
 ## 📌 Sobre o repositório
 
-Este repositório foi criado para documentar meus estudos de Programação Orientada a Objetos em Java, consolidando conceitos essenciais para o desenvolvimento backend.
+Este repositório foi criado para acompanhar minha evolução em Java por meio dos exercícios e projetos do curso Java Completo, do Nélio Alves.
 
-Os primeiros exercícios do curso são de nivelamento e revisão dos fundamentos da linguagem, por isso são propositalmente simples. Eles fazem parte da preparação para os conteúdos mais avançados de orientação a objetos e projetos práticos.
+Mesmo já tendo contato prévio com a linguagem, decidi revisar cada etapa do curso com atenção, consolidando os fundamentos e aprofundando conceitos de Programação Orientada a Objetos e desenvolvimento backend.
 
 ## 🚀 Tecnologias
 
