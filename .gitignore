@@ -9,3 +9,6 @@
 
 # Arquivos compilados
 **/*.class
+
+.idea/
+*.iml
