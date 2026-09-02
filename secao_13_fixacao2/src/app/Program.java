@@ -41,6 +41,7 @@ public class Program {
 		Double sum = 0.0;
 		
 		System.out.println();
+		
 		System.out.println("TAXES PAID: ");
 		for (TaxPayer p : taxPayers) {
 			System.out.print(p.getName());
