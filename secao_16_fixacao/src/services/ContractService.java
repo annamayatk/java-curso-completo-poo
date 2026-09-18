@@ -1,4 +1,4 @@
-package model.services;
+package services;
 
 import java.time.LocalDate;
 
@@ -12,7 +12,6 @@ public class ContractService {
 	public ContractService(OnlinePaymentService onlinePaymentService) {
 		this.onlinePaymentService = onlinePaymentService;
 	}
-
 
 	public void processContract(Contract contract, Integer months) {
 		
