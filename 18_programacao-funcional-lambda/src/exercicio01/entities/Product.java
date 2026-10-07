@@ -1,4 +1,4 @@
-package entities;
+package exercicio01.entities;
 
 public class Product {
 

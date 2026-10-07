@@ -1,4 +1,4 @@
-package app;
+package exercicio01.app;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -12,7 +12,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import entities.Product;
+import exercicio01.entities.Product;
 
 public class Program {
 
