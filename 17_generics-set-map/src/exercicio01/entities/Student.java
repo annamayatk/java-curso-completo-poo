@@ -1,4 +1,4 @@
-package entities;
+package exercicio01.entities;
 
 import java.util.Objects;
 

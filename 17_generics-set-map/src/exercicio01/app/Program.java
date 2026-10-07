@@ -1,10 +1,10 @@
-package app;
+package exercicio01.app;
 
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-import entities.Student;
+import exercicio01.entities.Student;
 
 public class Program {
 
