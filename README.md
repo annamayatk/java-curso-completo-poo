@@ -1,19 +1,19 @@
-# ☕ programacao-orientada-objetos-java
+# programacao-orientada-objetos-java
 
 Exercícios e projetos do curso **Java COMPLETO – Programação Orientada a Objetos + Projetos**, do Nélio Alves.
 
-## 📌 Sobre o repositório
+## Sobre
 
 Este repositório foi criado para acompanhar minha evolução em Java por meio dos exercícios e projetos do curso Java Completo, do Nélio Alves.
 
 Mesmo já tendo contato prévio com a linguagem, decidi revisar cada etapa do curso com atenção, consolidando os fundamentos e aprofundando conceitos de Programação Orientada a Objetos e desenvolvimento backend.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 * Java
-* Eclipse IDE
+* Spring Tools for Eclipse
 
-## 📚 Conteúdo
+## Conteúdo
 
 * Revisão da linguagem Java
 * Programação Orientada a Objetos
@@ -30,9 +30,9 @@ Mesmo já tendo contato prévio com a linguagem, decidi revisar cada etapa do cu
 * JPA/Hibernate
 * Spring Boot
 
-## 🎯 Objetivo
+## Objetivo
 
-Aprofundar meus conhecimentos em Java para fortalecer minha formação full stack e consolidar uma base sólida em desenvolvimento backend, evoluindo de forma estruturada desde os fundamentos até conceitos avançados da linguagem e do ecossistema Java.
+Aprofundar meus conhecimentos em Java para fortalecer minha formação full stack e consolidar uma base sólida em desenvolvimento backend, evoluindo de forma desde os fundamentos até conceitos avançados da linguagem e do ecossistema Java.
 
 ---
 
